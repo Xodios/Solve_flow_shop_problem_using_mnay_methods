@@ -1,0 +1,11 @@
+So in branch and bound,
+I was kinda off during that month
+So I was thinking about it and I came up with this:
+What if each time we makea  branch 
+the minmu thingy is the sum of all the rest
+if the sum is bigger than what we are looking for than we don't take
+at first we will have a lot of solution but they will get lower by time 
+I think we can even optimize it
+like stroe some data that will be used or something 
+like adding up each pair until we have the sum of the pairs....
+I guess the 10 first will detrmine the solution like the 20!/10!
